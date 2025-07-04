@@ -1,0 +1,56 @@
+.carpinteria {    width: 500px;
+    height: 500px;
+}
+
+.carpinteria__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #967546;
+    color: #dfc69f;
+}
+
+.carpinteria__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #4f311d;
+    color: #dfc69f;
+}
+
+.carpinteria__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #797067;
+    color: #dfc69f;
+}
+
+.carpinteria__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #a89c90;
+}
+
+.carpinteria__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #dfc69f;
+}

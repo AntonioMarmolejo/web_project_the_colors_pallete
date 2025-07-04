@@ -1,0 +1,50 @@
+.cafeteria {    width: 500px;
+    height: 500px;
+}
+
+.cafeteria__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #9d9ca2;
+}
+.cafeteria__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #1b383e;
+    color: #9d9ca2;
+}
+.cafeteria__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #a46935;
+}
+.cafeteria__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #5a483d;
+}
+.cafeteria__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #6c7e5e;
+}

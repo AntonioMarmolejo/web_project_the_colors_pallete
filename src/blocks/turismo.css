@@ -1,0 +1,54 @@
+.turismo {    width: 500px;
+    height: 500px;
+}
+
+.turismo__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #dec7b5;
+    color: #346157;
+}
+.turismo__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #f0e7dc;
+    color: #346157;
+}
+.turismo__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #adcecf;
+    color: #346157;
+}
+.turismo__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #346157;
+    color: #f0e7dc;
+}
+.turismo__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #232123;
+    color: #f0e7dc;
+}

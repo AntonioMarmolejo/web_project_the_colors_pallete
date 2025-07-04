@@ -1,0 +1,53 @@
+.inmoviliaria {    width: 500px;
+    height: 500px;
+}
+
+.inmoviliaria__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #174966;
+    color: #e8e6de;
+}
+.inmoviliaria__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #38627a;
+    color: #e8e6de;
+}
+.inmoviliaria__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #bc8d6d;
+    color: #e8e6de;
+}
+.inmoviliaria__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #a9725c;
+    color: #e8e6de;
+}
+.inmoviliaria__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #e8e6de;
+}

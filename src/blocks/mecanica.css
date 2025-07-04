@@ -1,0 +1,51 @@
+.mecanica {    width: 500px;
+    height: 500px;
+}
+
+.mecanica__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #333437;
+    color: #78837f;
+}
+.mecanica__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #c66717;
+}
+.mecanica__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #19323b;
+    color: #78837f;
+}
+.mecanica__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #3f676b;
+}
+.mecanica__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #78837f;
+}

@@ -1,0 +1,20 @@
+* {    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333437;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.header__title {
+    color: white;
+    font-size: 108px;
+}
+.span {
+    color: #b54fd3;
+    font-size: 108px;
+}

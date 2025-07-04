@@ -1,0 +1,77 @@
+.musica {    width: 500px;
+    height: 500px;
+}
+.title {
+    color: black;
+    font-size: 54px;
+    text-align: center;
+}
+.item {
+    width: 95px;
+    height: 40%;
+}
+.page__items {
+    display: flex;
+    justify-content: space-around;
+    height: 87%;
+    text-align: center;
+}
+.item__title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.item__subtitle {
+    font-size: 12px;
+}
+.number {
+    margin-top: 10px;
+}
+
+.musica__1 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #e39aeb;
+}
+.musica__2 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #ba2771;
+}
+.musica__3 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #361c5d;
+    color: #e39aeb;
+}
+.musica__4 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #b54fd3;
+}
+.musica__5 {
+    height: 100%;
+    border-radius: 50px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    background-color: #080409;
+    color: #e39aeb;
+}
